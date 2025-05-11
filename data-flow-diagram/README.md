@@ -1,1 +1,1 @@
-Data flow diagram
+The DFD illustrates how data moves through the Airbnb Clone system. It identifies the main entities (users, properties, bookings, payments), processes (e.g., register user, make booking), data stores (e.g., database tables), and data flows between them. This diagram is critical for understanding system operations and backend interactions.
