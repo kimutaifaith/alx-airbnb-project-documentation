@@ -1,1 +1,1 @@
-Features and Functionalities
+This diagram outlines the core backend components required for the Airbnb Clone application. It includes modules such as user management, property listings, bookings, payments, reviews, notifications, and admin tools. Each module is broken down into its key functionalities to provide a comprehensive view of what the system needs to support.
