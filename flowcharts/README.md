@@ -1,1 +1,1 @@
-Flowchart
+The flowchart breaks down a specific backend process—in this case, user registration. It maps each step involved, from submitting a registration form to validating inputs, creating a user record, and returning a success message. This helps visualize logic, decision points, and system responses during the process.
